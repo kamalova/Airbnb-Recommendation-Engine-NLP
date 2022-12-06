@@ -2,13 +2,13 @@
 ## **Airbnb Recommendation Engine for NYC through Sentiment Analysis**<p>
 **Author: Nurgul Kurbanali kyzy**<p>
 **Table of Contents**<p>
-- [Overview and Business Statement]()
-- [Data Understanding]()
-- [Sentiment Analysis]()
-- [Recommendation Engine]()
-- [Limitations and Future Consideration]()
-- [References]()
-- [For More Information]() 
+- [Overview and Business Statement](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#overview-and-business-statement)
+- [Data Understanding](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#data-understanding)
+- [Sentiment Analysis](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#sentiment-analysis)
+- [Recommendation Engine](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#recommendation-engine)
+- [Limitations and Future Consideration](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#limitations-and-future-consideration)
+- [References](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#references)
+- [For More Information](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP#for-more-information) 
 
 
 ### **Overview and Business Statement**
