@@ -1,4 +1,4 @@
-![](https://github.com/kamalova/Capstone/blob/main/banner.png)
+![](https://github.com/kamalova/Airbnb-Recommendation-Engine-NLP/blob/main/images/banner.png)
 ## **Airbnb Recommendation Engine for NYC through Sentiment Analysis**<p>
 **Author: Nurgul Kurbanali kyzy**<p>
 **Table of Contents**<p>
