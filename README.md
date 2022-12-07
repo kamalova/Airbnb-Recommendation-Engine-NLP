@@ -12,7 +12,7 @@
 
 
 ### **Overview and Business Statement**
-**About Airbnb**: *You can host anything, anywhere, so guests can enjoy everything, everywhere.*<p>
+**About Airbnb (Air Bed and Breakfast)**: *You can host anything, anywhere, so guests can enjoy everything, everywhere.*<p>
 Nowadays the demand for short and long-term temporary accommodation is increasing thanks to easing travel conditions. This demand positively affects the number of online platforms that allow you to make reservations before traveling. Airbnb is one such platform, which allows travelers to make accommodation reservations based on the fact that the host leases all or part of his or her home to the traveler.
 
 Customer reviews play an important role in the customer’s decision to purchase a product or use a service. Customer preferences and opinions are affected by other customers’ reviews online, on blogs or over social networking platforms.
