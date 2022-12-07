@@ -53,7 +53,7 @@ You can review my full analysis in my **Jupyter Notebooks**:
 ](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/notebooks/Listings_EDA.ipynb),
 - [Review Based Sentiment Analysis](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/notebooks/Sentiment_Analysis.ipynb)
 - [Recommendation Engine](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/notebooks/Recommendation_Engine.ipynb) <p>
-or Project  presentation.<p>
+or project  [presentation](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/presentation.pdf).<p>
 
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
 
