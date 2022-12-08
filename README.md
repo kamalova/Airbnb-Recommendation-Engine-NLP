@@ -30,7 +30,7 @@ The dataset is obtained from [Inside Airbnb](http://insideairbnb.com/). It is is
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/amount_review.png)
 
 ### **Sentiment Analysis**
-Prior to start my analysis I gave a brief information what is a **Sentiment Analysis(opinion mining)**. Further applied text pre-processing steps for each reviewer's comments (including language detection). Thanks to the NLTK's Vader lexicon I was able to calculate the compound polarity of each comment.<p>
+Prior to start my analysis I gave a brief information what is a **Sentiment Analysis(opinion mining)**. Further applied text pre-processing steps for each reviewer's comments (including language detection). Thanks to the NLTK's Vader lexicon I was able to calculate the compound polarity score  of each comment. The polarity score() method returns a float for the sentiment strength based on the input textThanks to the NLTK's Vader lexicon I was able to calculate the compound polarity of each comment<p>
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/sent_type.png)<p>
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/pos_review.png)
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/neg_review.png)
