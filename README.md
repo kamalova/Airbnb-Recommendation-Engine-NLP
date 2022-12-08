@@ -21,7 +21,7 @@ The main goal of this work is to combine both recommendation system with **Colla
 Overall, the project went through the following sections:
 
 - Exploring available **AirBnb** listings in **NYC**
-- Measuring polarity/sentiment scores along with vader_lexicon. This polarity measurement adapts to ***pos, neu, neg***, and ***compound***. By simply taking the compound from these values, a new feature was created on the data.
+- Measuring polarity/sentiment scores with the help of  vader_lexicon. This polarity measurement adapts to ***pos, neu, neg***, and ***compound***. By simply taking the compound from these values, a new feature was created on the data.
 - Finally building a recommendation engine with **CF** to predict sentiment score for all reviewer-listing pairs and making personalised recommendations for each user based on their ranked preferences.
 
 ### **Data Understanding**
