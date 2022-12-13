@@ -16,7 +16,7 @@
 Nowadays the demand for short and long-term temporary accommodation is increasing thanks to easing travel conditions. This demand positively affects the number of online platforms that allow you to make reservations before traveling. Airbnb is one such platform, which allows travelers to make accommodation reservations based on the fact that the host leases all or part of his or her home to the traveler.
 
 Customer reviews play an important role in the customer’s decision to purchase a product or use a service. Customer preferences and opinions are affected by other customers’ reviews online, on blogs or over social networking platforms.
-The main goal of this work is to combine both recommendation system with **Collaborative Filtering (CF)** and sentiment analysis in order to recommend the most accurate listings for users based on their preferences in New York City. Since both domains suffer from the lack of labeled data, to overcome that, this project detects the opinions polarity score using **NLTK VADER** (Valence Aware Dictionary and Sentiment Reasoner) Lexicon.
+The main goal of this work is to combine both recommendation system with **Collaborative Filtering (CF)** and sentiment analysis in order to recommend the most accurate listings for Airbnb users based on their preferences in New York City. Since both domains suffer from the lack of labeled data, to overcome that, this project detects the opinions polarity score using **NLTK VADER** (Valence Aware Dictionary and Sentiment Reasoner) Lexicon.
 
 Overall, the project went through the following sections:
 
