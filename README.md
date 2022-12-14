@@ -36,7 +36,7 @@ Prior to start my analysis I gave a brief information what is a **Sentiment Anal
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/neg_review.png)
 ### **Recommendation Engine**
 In this section I ended up building a recommendation engine with **Collaborative Filtering(CF)** to predict sentiment score for all reviewer-listing pairs and make personalised recommendations for each user based on their ranked preferences. The **CF** method focuses on collecting and analyzing data on user behavior, activities, and preferences, to predict what a person will like, based on their similarity to other users.To plot and calculate these similarities, collaborative filtering uses a matrix style formula. An advantage of collaborative filtering is that it doesn’t need to analyze or understand the content (products, films, books). It simply picks items to recommend based on what they know about the user.<p>
-**Grid Search Cross Validation** computed accuracy metrics for an algorithm on various combinations of parameters, over a cross-validation procedure **SVD Algorithm**<p> Accuracy on Test set- ***RMSE: 0.1629***<p>
+**Grid Search Cross Validation** computed accuracy metrics for an algorithm on various combinations of parameters, over a cross-validation procedure **SVD Algorithm**<p> Accuracy on Test set- ***RMSE: 0.1680***<p>
 ![](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/images/reccommend.png)
 
 
