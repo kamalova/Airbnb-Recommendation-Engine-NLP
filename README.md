@@ -55,6 +55,9 @@ You can review my full analysis in my **Jupyter Notebooks**:
 - [Recommendation Engine](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/notebooks/Recommendation_Engine.ipynb) <p>
 or project  [presentation](https://github.com/kamalova/NYC-Airbnb-Recommendation-Engine-NLP/blob/main/presentation.pdf).<p>
 
-For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com
+For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com <p>
+
+*Repository Structure*
+
 
 
