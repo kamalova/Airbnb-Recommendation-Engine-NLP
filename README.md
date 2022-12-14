@@ -57,7 +57,7 @@ or project  [presentation](https://github.com/kamalova/NYC-Airbnb-Recommendation
 
 For any additional questions, please contact Nurgul Kurbanali kyzy at nurkamalova@gmail.com <p>
 
-*Repository Structure*
+
 
 
 
